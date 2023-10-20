@@ -47,7 +47,7 @@
     "prompt": "^1.1.0",
     "readline-sync": "^1.4.10",
     "request": "^2.88.2",
-    "semver": "^7.3.5",
+    "semver": "^7.5.2",
     "tar": "^6.1.0",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.5",
