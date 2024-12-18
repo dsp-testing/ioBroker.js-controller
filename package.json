@@ -26,7 +26,7 @@
     "@iobroker/db-states-jsonl": "~1.2.7",
     "@iobroker/db-states-redis": "~1.2.7",
     "@iobroker/plugin-base": "~1.2.1",
-    "@iobroker/plugin-sentry": "~1.1.10",
+    "@iobroker/plugin-sentry": "~1.2.1",
     "chokidar": "^3.5.2",
     "daemonize2": "^0.4.2",
     "debug": "^4.3.1",
